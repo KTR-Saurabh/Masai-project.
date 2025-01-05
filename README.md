@@ -44,4 +44,4 @@ Ensure you have Python installed on your system. You can download it from [pytho
 
 ## License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) file for details.
