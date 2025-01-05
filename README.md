@@ -41,3 +41,7 @@ Ensure you have Python installed on your system. You can download it from [pytho
     python main.py
     ```
 3. Follow the on-screen instructions to navigate through the menu and use the various features of the bank management system.
+
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
